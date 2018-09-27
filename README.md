@@ -1,2 +1,2 @@
 # Ai_Lab_
-Initial Learning for Ai/ML/DL/NLP
+Initial Learning for Ai
